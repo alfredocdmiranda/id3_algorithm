@@ -1,0 +1,15 @@
+Dia;Perspectiva;Temperatura;Umidade;Vento;Resultado
+D1;Ensolarado;Quente;Alta;Fraco;Não
+D2;Ensolarado;Quente;Alta;Forte;Não
+D3;Nublado;Quente;Alta;Fraco;Sim
+D4;Chuvoso;Moderada;Alta;Fraco;Sim
+D5;Chuvoso;Fresca;Normal;Fraco;Sim
+D6;Chuvoso;Fresca;Normal;Forte;Não
+D7;Nublado;Fresca;Normal;Forte;Sim
+D8;Ensolarado;Moderada;Alta;Fraco;Não
+D9;Ensolarado;Fresca;Normal;Fraco;Sim
+D10;Chuvoso;Moderada;Normal;Fraco;Sim
+D11;Ensolarado;Moderada;Normal;Forte;Sim
+D12;Nublado;Moderada;Alta;Forte;Sim
+D13;Nublado;Quente;Normal;Fraco;Sim
+D14;Chuvoso;Moderada;Alta;Forte;Não
